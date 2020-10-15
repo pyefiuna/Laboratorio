@@ -74,10 +74,6 @@ Se pueden abrir los archivos .ipynb directamente desde [Google Colab](https://co
 ### Prerrequisitos
 
 Se necesita tener instalado pip en caso de correr los códigos de forma local. Otra alternativa es usar [Google Colab](https://colab.research.google.com/).
-* npm
-```sh
-npm install npm@latest -g
-```
 
 ### Instalación
 
