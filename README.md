@@ -58,14 +58,14 @@ El objetivo de este proyecto es el proveer al estudiante de la cátedra de Proba
 
 ### Por implementar
 * [ ] Semana 1
- * [ ] Estadística Descriptiva
+  - [ ] Estadística Descriptiva
 * [ ] Semana 3
- * [ ] Distribución Binomial
- * [ ] Distribución de Poisson
+  - [ ] Distribución Binomial
+  - [ ] Distribución de Poisson
 * [ ] Semana 4
- * [ ] Distribución Normal
+  - [ ] Distribución Normal
 * [ ] Semana 10
- * [ ] Ajuste de Curvas y Correlación
+  - [ ] Ajuste de Curvas y Correlación
 
 ## Empezando
 
