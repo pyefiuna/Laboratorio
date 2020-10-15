@@ -57,15 +57,15 @@ El objetivo de este proyecto es el proveer al estudiante de la cátedra de Proba
 * [SciPy](https://www.scipy.org/)
 
 ### Por implementar
-- [ ] Semana 1
- - [ ] Estadística Descriptiva
-- [ ] Semana 3
- - [ ] Distribución Binomial
- - [ ] Distribución de Poisson
-- [ ] Semana 4
- - [ ] Distribución Normal
-- [ ] Semana 10
- - [ ] Ajuste de Curvas y Correlación
+* [ ] Semana 1
+ * [ ] Estadística Descriptiva
+* [ ] Semana 3
+ * [ ] Distribución Binomial
+ * [ ] Distribución de Poisson
+* [ ] Semana 4
+ * [ ] Distribución Normal
+* [ ] Semana 10
+ * [ ] Ajuste de Curvas y Correlación
 
 ## Empezando
 
@@ -74,6 +74,10 @@ Se pueden abrir los archivos .ipynb directamente desde [Google Colab](https://co
 ### Prerrequisitos
 
 Se necesita tener instalado pip en caso de correr los códigos de forma local. Otra alternativa es usar [Google Colab](https://colab.research.google.com/).
+* npm
+```sh
+npm install npm@latest -g
+```
 
 ### Instalación
 
