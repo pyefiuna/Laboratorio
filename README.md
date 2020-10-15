@@ -27,6 +27,7 @@
 
 * [Sobre el proyecto](#sobre-el-proyecto)
   * [Herramientas utilizadas](#herramientas-utilizadas)
+  * [Por implementar](#por-implementar)
 * [Empezando](#empezando)
   * [Prerrequisitos](#prerrequisitos)
   * [Instalación](#instalación)
@@ -55,7 +56,16 @@ El objetivo de este proyecto es el proveer al estudiante de la cátedra de Proba
 * [NumPy](https://numpy.org/)
 * [SciPy](https://www.scipy.org/)
 
-
+### Por implementar
+- [ ] Semana 1
+ - [ ] Estadística Descriptiva
+- [ ] Semana 3
+ - [ ] Distribución Binomial
+ - [ ] Distribución de Poisson
+- [ ] Semana 4
+ - [ ] Distribución Normal
+- [ ] Semana 10
+ - [ ] Ajuste de Curvas y Correlación
 
 ## Empezando
 
