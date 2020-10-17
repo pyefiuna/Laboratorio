@@ -59,6 +59,15 @@ El objetivo de este proyecto es el proveer al estudiante de la cátedra de Proba
 ### Por implementar
 * [ ] Semana 1
   - [ ] Estadística Descriptiva
+    + [ ] Importar datos y explorar
+    + [ ] Limpiar y rellenar datos
+    + [ ] Medidas de tendencia central
+    + [ ] Medidas de dispersion
+    + [ ] Visualizaciones basicas
+    + [ ] Ejemplo resuelto 1
+    + [ ] Ejemplo resuelto 2
+    + [ ] Ejemplo propuesto 1
+    + [ ] Ejemplo propuesto 2    
 * [ ] Semana 3
   - [ ] Distribución Binomial
   - [ ] Distribución de Poisson
