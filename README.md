@@ -57,22 +57,20 @@ El objetivo de este proyecto es el proveer al estudiante de la cátedra de Proba
 * [SciPy](https://www.scipy.org/)
 
 ### Por implementar
-* [ ] Semana 1
-  - [ ] Estadística Descriptiva
-    + [ ] Importar datos y explorar
-    + [ ] Limpiar y rellenar datos
-    + [ ] Medidas de tendencia central
-    + [ ] Medidas de dispersion
-    + [ ] Visualizaciones basicas
-    + [ ] Ejemplo resuelto 1
-    + [ ] Ejemplo resuelto 2
-    + [ ] Ejemplo propuesto 1
-    + [ ] Ejemplo propuesto 2    
-* [ ] Semana 3
-  - [ ] Distribución Binomial
-  - [ ] Distribución de Poisson
-* [ ] Semana 4
-  - [ ] Distribución Normal
+* [x] Semana 1
+  - [x] Estadística Descriptiva
+    + [x] Importar datos y explorar
+    + [x] Limpiar y rellenar datos
+    + [x] Medidas de tendencia central
+    + [x] Medidas de dispersion
+    + [x] Visualizaciones basicas
+    + [x] Ejemplo resuelto 1
+    + [x] Ejemplo propuesto 1
+* [x] Semana 3
+  - [x] Distribución Binomial
+  - [x] Distribución de Poisson
+* [x] Semana 4
+  - [x] Distribución Normal
 * [ ] Semana 10
   - [ ] Ajuste de Curvas y Correlación
 
